@@ -1,4 +1,4 @@
-RustFS
+ArrowFS
 ======
 
 ArrowFS is a virtual file system written completely in Rust.
