@@ -1,0 +1,10 @@
+cargo-features = ["edition2021"]
+[package]
+name = "arrowfs"
+version = "0.1.0"
+edition = "2021"
+authors = ["huanbing lu luhuanbing084@gmail.com"]
+
+[dependencies]
+libc = "0.2.100"
+rand = "0.8.4"
